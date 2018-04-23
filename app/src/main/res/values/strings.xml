@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weekly Calender Creator</string>
+    <string name="txtUser">Username</string>
+    <string name="txtPassword">Password</string>
+    <string name="btnLogin">Login</string>
+
+    <string name="errorMessageLogin">Error: Invalid Username</string>
+    <string name="errorMessagePassword">Error: Invalid Password</string>
+    <string name="title_activity_calender_build">CalenderBuild</string>
+
+    <string name="btnActivityAdd">Add Activity</string>
+    <string name="btnViewCalendar">View Calendar</string>
+    <string name="Day">Day of Week</string>
+
+    <string-array name="Weekday">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string name="txtTime">Time of Day</string>
+    <string name="txtPm">PM</string>
+    <string name="txtAm">AM</string>
+</resources>
